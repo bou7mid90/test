@@ -20,7 +20,9 @@
         <repository>
             <id>nexus</id>
             <name>nexus</name>
-            <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>&qqzs
+            <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
+        </repository>
+
     </distributionManagement>
     <build>
   	<plugins>
